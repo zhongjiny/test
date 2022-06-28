@@ -1,0 +1,33 @@
+{
+    "data": [
+
+        { "name": "东部地区", "value": 2090, "specName": "柴草" },
+        { "name": "中部地区", "value": 2770, "specName": "柴草" },
+        { "name": "西部地区", "value": 4225, "specName": "柴草" },
+        { "name": "东北地区", "value": 1092, "specName": "柴草" },
+
+
+        { "name": "东部地区", "value": 2239, "specName": "煤" },
+        { "name": "中部地区", "value": 1124, "specName": "煤" },
+        { "name": "西部地区", "value": 1789, "specName": "煤" },
+        { "name": "东北地区", "value": 354, "specName": "煤" },
+
+
+        { "name": "东部地区", "value": 20, "specName": "沼气" },
+        { "name": "中部地区", "value": 47, "specName": "沼气" },
+        { "name": "西部地区", "value": 87, "specName": "沼气" },
+        { "name": "东北地区", "value": 1, "specName": "沼气" },
+
+
+        { "name": "东部地区", "value": 4354, "specName": "电" },
+        { "name": "中部地区", "value": 4096, "specName": "电" },
+        { "name": "西部地区", "value": 4295, "specName": "电" },
+        { "name": "东北地区", "value": 758, "specName": "电" },
+
+
+        { "name": "东部地区", "value": 17, "specName": "太阳能" },
+        { "name": "中部地区", "value": 18, "specName": "太阳能" },
+        { "name": "西部地区", "value": 20, "specName": "太阳能" },
+        { "name": "东北地区", "value": 1, "specName": "太阳能" }
+    ]
+}
